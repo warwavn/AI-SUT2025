@@ -1,0 +1,6 @@
+robot_name,mobility,controller,vision,endurance
+aibot,yes,MCU,yes,5
+reeman,yes,MCU,no,3
+jetrace,yes,SBC,yes,1.5
+asimov,no,SBC,yes,alltime
+jenkin,no,MCU,no,alltime
